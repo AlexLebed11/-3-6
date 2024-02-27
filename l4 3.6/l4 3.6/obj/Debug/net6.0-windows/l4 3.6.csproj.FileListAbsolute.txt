@@ -1,0 +1,16 @@
+C:\Users\root\source\repos\l4 3.6\l4 3.6\bin\Debug\net6.0-windows\l4 3.6.exe
+C:\Users\root\source\repos\l4 3.6\l4 3.6\bin\Debug\net6.0-windows\l4 3.6.deps.json
+C:\Users\root\source\repos\l4 3.6\l4 3.6\bin\Debug\net6.0-windows\l4 3.6.runtimeconfig.json
+C:\Users\root\source\repos\l4 3.6\l4 3.6\bin\Debug\net6.0-windows\l4 3.6.dll
+C:\Users\root\source\repos\l4 3.6\l4 3.6\bin\Debug\net6.0-windows\l4 3.6.pdb
+C:\Users\root\source\repos\l4 3.6\l4 3.6\obj\Debug\net6.0-windows\l4_3._6.Form1.resources
+C:\Users\root\source\repos\l4 3.6\l4 3.6\obj\Debug\net6.0-windows\l4 3.6.csproj.GenerateResource.cache
+C:\Users\root\source\repos\l4 3.6\l4 3.6\obj\Debug\net6.0-windows\l4 3.6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\source\repos\l4 3.6\l4 3.6\obj\Debug\net6.0-windows\l4 3.6.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\l4 3.6\l4 3.6\obj\Debug\net6.0-windows\l4 3.6.AssemblyInfo.cs
+C:\Users\root\source\repos\l4 3.6\l4 3.6\obj\Debug\net6.0-windows\l4 3.6.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\l4 3.6\l4 3.6\obj\Debug\net6.0-windows\l4 3.6.dll
+C:\Users\root\source\repos\l4 3.6\l4 3.6\obj\Debug\net6.0-windows\refint\l4 3.6.dll
+C:\Users\root\source\repos\l4 3.6\l4 3.6\obj\Debug\net6.0-windows\l4 3.6.pdb
+C:\Users\root\source\repos\l4 3.6\l4 3.6\obj\Debug\net6.0-windows\l4 3.6.genruntimeconfig.cache
+C:\Users\root\source\repos\l4 3.6\l4 3.6\obj\Debug\net6.0-windows\ref\l4 3.6.dll
