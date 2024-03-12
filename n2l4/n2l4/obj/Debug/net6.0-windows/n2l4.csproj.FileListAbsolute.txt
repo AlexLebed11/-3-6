@@ -1,0 +1,16 @@
+C:\Users\root\source\repos\n2l4\n2l4\bin\Debug\net6.0-windows\n2l4.exe
+C:\Users\root\source\repos\n2l4\n2l4\bin\Debug\net6.0-windows\n2l4.deps.json
+C:\Users\root\source\repos\n2l4\n2l4\bin\Debug\net6.0-windows\n2l4.runtimeconfig.json
+C:\Users\root\source\repos\n2l4\n2l4\bin\Debug\net6.0-windows\n2l4.dll
+C:\Users\root\source\repos\n2l4\n2l4\bin\Debug\net6.0-windows\n2l4.pdb
+C:\Users\root\source\repos\n2l4\n2l4\obj\Debug\net6.0-windows\n2l4.Form1.resources
+C:\Users\root\source\repos\n2l4\n2l4\obj\Debug\net6.0-windows\n2l4.csproj.GenerateResource.cache
+C:\Users\root\source\repos\n2l4\n2l4\obj\Debug\net6.0-windows\n2l4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\source\repos\n2l4\n2l4\obj\Debug\net6.0-windows\n2l4.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\n2l4\n2l4\obj\Debug\net6.0-windows\n2l4.AssemblyInfo.cs
+C:\Users\root\source\repos\n2l4\n2l4\obj\Debug\net6.0-windows\n2l4.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\n2l4\n2l4\obj\Debug\net6.0-windows\n2l4.dll
+C:\Users\root\source\repos\n2l4\n2l4\obj\Debug\net6.0-windows\refint\n2l4.dll
+C:\Users\root\source\repos\n2l4\n2l4\obj\Debug\net6.0-windows\n2l4.pdb
+C:\Users\root\source\repos\n2l4\n2l4\obj\Debug\net6.0-windows\n2l4.genruntimeconfig.cache
+C:\Users\root\source\repos\n2l4\n2l4\obj\Debug\net6.0-windows\ref\n2l4.dll
