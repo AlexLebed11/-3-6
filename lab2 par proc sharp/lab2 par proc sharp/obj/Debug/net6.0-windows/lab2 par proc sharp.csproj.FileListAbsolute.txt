@@ -1,0 +1,16 @@
+C:\Users\root\source\repos\lab2 par proc sharp\lab2 par proc sharp\bin\Debug\net6.0-windows\lab2 par proc sharp.exe
+C:\Users\root\source\repos\lab2 par proc sharp\lab2 par proc sharp\bin\Debug\net6.0-windows\lab2 par proc sharp.deps.json
+C:\Users\root\source\repos\lab2 par proc sharp\lab2 par proc sharp\bin\Debug\net6.0-windows\lab2 par proc sharp.runtimeconfig.json
+C:\Users\root\source\repos\lab2 par proc sharp\lab2 par proc sharp\bin\Debug\net6.0-windows\lab2 par proc sharp.dll
+C:\Users\root\source\repos\lab2 par proc sharp\lab2 par proc sharp\bin\Debug\net6.0-windows\lab2 par proc sharp.pdb
+C:\Users\root\source\repos\lab2 par proc sharp\lab2 par proc sharp\obj\Debug\net6.0-windows\lab2_par_proc_sharp.Form1.resources
+C:\Users\root\source\repos\lab2 par proc sharp\lab2 par proc sharp\obj\Debug\net6.0-windows\lab2 par proc sharp.csproj.GenerateResource.cache
+C:\Users\root\source\repos\lab2 par proc sharp\lab2 par proc sharp\obj\Debug\net6.0-windows\lab2 par proc sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\source\repos\lab2 par proc sharp\lab2 par proc sharp\obj\Debug\net6.0-windows\lab2 par proc sharp.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\lab2 par proc sharp\lab2 par proc sharp\obj\Debug\net6.0-windows\lab2 par proc sharp.AssemblyInfo.cs
+C:\Users\root\source\repos\lab2 par proc sharp\lab2 par proc sharp\obj\Debug\net6.0-windows\lab2 par proc sharp.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\lab2 par proc sharp\lab2 par proc sharp\obj\Debug\net6.0-windows\lab2 par proc sharp.dll
+C:\Users\root\source\repos\lab2 par proc sharp\lab2 par proc sharp\obj\Debug\net6.0-windows\refint\lab2 par proc sharp.dll
+C:\Users\root\source\repos\lab2 par proc sharp\lab2 par proc sharp\obj\Debug\net6.0-windows\lab2 par proc sharp.pdb
+C:\Users\root\source\repos\lab2 par proc sharp\lab2 par proc sharp\obj\Debug\net6.0-windows\lab2 par proc sharp.genruntimeconfig.cache
+C:\Users\root\source\repos\lab2 par proc sharp\lab2 par proc sharp\obj\Debug\net6.0-windows\ref\lab2 par proc sharp.dll
