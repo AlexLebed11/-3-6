@@ -1,0 +1,14 @@
+C:\Users\root\source\repos\lab2 par proc\lab2 par proc\bin\Debug\net6.0\lab2 par proc.exe
+C:\Users\root\source\repos\lab2 par proc\lab2 par proc\bin\Debug\net6.0\lab2 par proc.deps.json
+C:\Users\root\source\repos\lab2 par proc\lab2 par proc\bin\Debug\net6.0\lab2 par proc.runtimeconfig.json
+C:\Users\root\source\repos\lab2 par proc\lab2 par proc\bin\Debug\net6.0\lab2 par proc.dll
+C:\Users\root\source\repos\lab2 par proc\lab2 par proc\bin\Debug\net6.0\lab2 par proc.pdb
+C:\Users\root\source\repos\lab2 par proc\lab2 par proc\obj\Debug\net6.0\lab2 par proc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\source\repos\lab2 par proc\lab2 par proc\obj\Debug\net6.0\lab2 par proc.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\lab2 par proc\lab2 par proc\obj\Debug\net6.0\lab2 par proc.AssemblyInfo.cs
+C:\Users\root\source\repos\lab2 par proc\lab2 par proc\obj\Debug\net6.0\lab2 par proc.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\lab2 par proc\lab2 par proc\obj\Debug\net6.0\lab2 par proc.dll
+C:\Users\root\source\repos\lab2 par proc\lab2 par proc\obj\Debug\net6.0\refint\lab2 par proc.dll
+C:\Users\root\source\repos\lab2 par proc\lab2 par proc\obj\Debug\net6.0\lab2 par proc.pdb
+C:\Users\root\source\repos\lab2 par proc\lab2 par proc\obj\Debug\net6.0\lab2 par proc.genruntimeconfig.cache
+C:\Users\root\source\repos\lab2 par proc\lab2 par proc\obj\Debug\net6.0\ref\lab2 par proc.dll
