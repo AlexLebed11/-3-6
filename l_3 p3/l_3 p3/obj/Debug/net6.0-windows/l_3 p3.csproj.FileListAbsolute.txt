@@ -1,0 +1,16 @@
+C:\Users\root\source\repos\l_3 p3\l_3 p3\bin\Debug\net6.0-windows\l_3 p3.exe
+C:\Users\root\source\repos\l_3 p3\l_3 p3\bin\Debug\net6.0-windows\l_3 p3.deps.json
+C:\Users\root\source\repos\l_3 p3\l_3 p3\bin\Debug\net6.0-windows\l_3 p3.runtimeconfig.json
+C:\Users\root\source\repos\l_3 p3\l_3 p3\bin\Debug\net6.0-windows\l_3 p3.dll
+C:\Users\root\source\repos\l_3 p3\l_3 p3\bin\Debug\net6.0-windows\l_3 p3.pdb
+C:\Users\root\source\repos\l_3 p3\l_3 p3\obj\Debug\net6.0-windows\l_3_p3.Form1.resources
+C:\Users\root\source\repos\l_3 p3\l_3 p3\obj\Debug\net6.0-windows\l_3 p3.csproj.GenerateResource.cache
+C:\Users\root\source\repos\l_3 p3\l_3 p3\obj\Debug\net6.0-windows\l_3 p3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\source\repos\l_3 p3\l_3 p3\obj\Debug\net6.0-windows\l_3 p3.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\l_3 p3\l_3 p3\obj\Debug\net6.0-windows\l_3 p3.AssemblyInfo.cs
+C:\Users\root\source\repos\l_3 p3\l_3 p3\obj\Debug\net6.0-windows\l_3 p3.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\l_3 p3\l_3 p3\obj\Debug\net6.0-windows\l_3 p3.dll
+C:\Users\root\source\repos\l_3 p3\l_3 p3\obj\Debug\net6.0-windows\refint\l_3 p3.dll
+C:\Users\root\source\repos\l_3 p3\l_3 p3\obj\Debug\net6.0-windows\l_3 p3.pdb
+C:\Users\root\source\repos\l_3 p3\l_3 p3\obj\Debug\net6.0-windows\l_3 p3.genruntimeconfig.cache
+C:\Users\root\source\repos\l_3 p3\l_3 p3\obj\Debug\net6.0-windows\ref\l_3 p3.dll
