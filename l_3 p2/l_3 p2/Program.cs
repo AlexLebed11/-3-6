@@ -12,8 +12,8 @@ namespace l_3_2_1_p
         static object lockOn = new object(); 
         static public void Run()
         {
-            //lock (lockOn)
-            //{
+            lock (lockOn)
+            {
                 Console.WriteLine(Thread.CurrentThread.ManagedThreadId);
                 Console.WriteLine("Дочiрнiй процес.");
                 for (int j = 10; j <= 12; j++)
@@ -25,7 +25,7 @@ namespace l_3_2_1_p
                     }
                     Console.WriteLine();
                 }
-            //}
+            }
         }
 
         static void Main(string[] args)
