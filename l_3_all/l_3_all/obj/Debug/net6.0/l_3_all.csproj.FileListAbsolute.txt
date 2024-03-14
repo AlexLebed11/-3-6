@@ -1,0 +1,14 @@
+C:\Users\root\source\repos\l_3_all\l_3_all\bin\Debug\net6.0\l_3_all.exe
+C:\Users\root\source\repos\l_3_all\l_3_all\bin\Debug\net6.0\l_3_all.deps.json
+C:\Users\root\source\repos\l_3_all\l_3_all\bin\Debug\net6.0\l_3_all.runtimeconfig.json
+C:\Users\root\source\repos\l_3_all\l_3_all\bin\Debug\net6.0\l_3_all.dll
+C:\Users\root\source\repos\l_3_all\l_3_all\bin\Debug\net6.0\l_3_all.pdb
+C:\Users\root\source\repos\l_3_all\l_3_all\obj\Debug\net6.0\l_3_all.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\source\repos\l_3_all\l_3_all\obj\Debug\net6.0\l_3_all.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\l_3_all\l_3_all\obj\Debug\net6.0\l_3_all.AssemblyInfo.cs
+C:\Users\root\source\repos\l_3_all\l_3_all\obj\Debug\net6.0\l_3_all.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\l_3_all\l_3_all\obj\Debug\net6.0\l_3_all.dll
+C:\Users\root\source\repos\l_3_all\l_3_all\obj\Debug\net6.0\refint\l_3_all.dll
+C:\Users\root\source\repos\l_3_all\l_3_all\obj\Debug\net6.0\l_3_all.pdb
+C:\Users\root\source\repos\l_3_all\l_3_all\obj\Debug\net6.0\l_3_all.genruntimeconfig.cache
+C:\Users\root\source\repos\l_3_all\l_3_all\obj\Debug\net6.0\ref\l_3_all.dll
